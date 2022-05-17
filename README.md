@@ -10,7 +10,6 @@
 * Test sets about add to cart / checkout / enter payment and delivery details.
 * Locate elements by using XPATH .
 * Using selenium & python.  
-# Notice 
 
 
 
